@@ -13,17 +13,17 @@ Please cite: "comming soon"
 ### nPSO 
 
 This folder contains the scripts to generate the nPSO network: nPSOmdel_networks
-And corresponding MCL, Infomap and Louvain scripts to run on the nPSO networks.
+and corresponding MCL, Infomap and Louvain scripts to run on the nPSO networks.
 
 ### real
 
 This folder contains the real networks analyzed in the manuscript
-And corresponding MCL, Infomap and Louvain scripts to run the simulations
+and corresponding MCL, Infomap and Louvain scripts to run the simulations
 
 ### real_perturbed
 
 This folder contains the perturbed real networks analyzed in the manuscript, both with additional and removed links
-And corresponding MCL, Infomap and Louvain scripts to run the simulations
+and corresponding MCL, Infomap and Louvain scripts to run the simulations
 
 
 ## Note
