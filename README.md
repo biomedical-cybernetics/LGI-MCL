@@ -6,7 +6,7 @@ Here you will find the scripts used to compute the results of the ANS article:
 
 **Abstract** — Markov clustering is an effective unsupervised pattern recognition algorithm for data clustering in high-dimensional feature space. However, its community detection performance in complex networks has been demonstrating results far from the state of the art methods such as Infomap and Louvain. The crucial issue is to convert the unweighted network topology in a ‘smart-enough’ pre-weighted connectivity that adequately steers the stochastic flow procedure behind Markov clustering. Here we introduce a conceptual innovation and we discuss how to leverage network latent geometry notions in order to design similarity measures for pre-weighting the adjacency matrix used in Markov clustering community detection. Our results demonstrate that the proposed strategy improves Markov clustering significantly, to the extent that it is often close to the performance of current state of the art methods for community detection. These findings emerge considering both synthetic ‘realistic’ networks (with known ground-truth communities) and real networks (with community metadata), and even when the real network connectivity is corrupted by noise artificially induced by missing or spurious links. Our study enhances the generalized understanding of how network geometry plays a fundamental role in the design of algorithms based on network navigability.
 
-Please cite: "comming soon"
+Please cite: Durán, C., Muscoloni, A. & Cannistraci, C.V. Geometrical inspired pre-weighting enhances Markov clustering community detection in complex networks. Appl Netw Sci 6, 29 (2021). https://doi.org/10.1007/s41109-021-00370-x
 
 ## Simulations:
 
